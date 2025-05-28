@@ -23,7 +23,7 @@ echo "$HASH_OUTPUT"
 
 # Prompt user to save hashes
 read -p "Save hashes to '$HASH_FILE'? [y/N]: " SAVE_HASHES
-SAVE_HASHES=${SAVE_HASHES,,} # normalize input to lowercase
+SAVE_HASHES=${SAVE_HASHES,,}
 
 # Conditionally save hashes to file
 if [[ "$SAVE_HASHES" == "y" || "$SAVE_HASHES" == "yes" ]]; then
