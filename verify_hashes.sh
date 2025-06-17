@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 HASH_FILE_DIR="./hashes"
 HASH_FILE="$HASH_FILE_DIR/hashes.sha256"
