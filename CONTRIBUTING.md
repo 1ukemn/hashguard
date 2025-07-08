@@ -4,7 +4,7 @@
 
 ### License Considerations
 
-This repository (datalad-nix) is licensed under the [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). However, please be aware of the following important licensing considerations:
+This repository (hashguard) is licensed under the [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). However, please be aware of the following important licensing considerations:
 
 1. **Upstream Contributions**: Parts of your contributions to this repository may be incorporated into upstream projects within the Nix and/or Datalad ecosystems.
 
